@@ -1,5 +1,7 @@
 # Hostshare
 
+An easy way to share private IP and port with other devices in the network. Quite handy when developing front end applications. 
+
 ![hostshare](screenshots/hostshare_demo.png)
 
 ## Install
