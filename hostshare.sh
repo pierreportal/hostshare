@@ -24,8 +24,8 @@ function hostshare {
 ::   :::  ::::: ::  :::: ::      ::    :::: ::   ::   :::  ::   :::  ::   :::   :: ::::
  :   : :   : :  :   :: : :       :     :: : :     :   : :   :   : :   :   : :  : :: ::
  \n\n
------------------------ Serving @ http://$ip:$port 👾 -----------------------
+----------------------- Serving @ http://$publicIP:$port 👾 -----------------------
  \n\n"
- 	qrencode -s 1 -m 1 -t ANSI -o - "http://${ip}:${port}"
+ 	qrencode -s 1 -m 1 -t ANSI -o - "http://${publicIP}:${port}"
 	echo "\n\nThanks for using Hostshare!\n\n"
 }
