@@ -19,5 +19,6 @@ An easy way to share private IP and port with other devices in the network. Quit
 `$ source ${HOME}/.zshrc`
 
 ## Usage:
-`$ hostshare <PORT>`
+`$ hostshare -p <PORT> [-s]`
+(optional -s option for using https)
 
