@@ -2,8 +2,7 @@
 
 An easy way to share private IP and port with other devices in the network. Quite handy when developing front end applications. 
 
-![hostshare_demo](https://github.com/user-attachments/assets/34006dd3-fb97-488c-bbf0-7c32a84378f4)
-
+![hostshareusage (1)](https://github.com/user-attachments/assets/6ac8f07d-9b9c-4a2c-abf4-629007ac4a0b)
 
 ## Install
 - Download the script into your home directory
